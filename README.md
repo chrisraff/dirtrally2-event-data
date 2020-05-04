@@ -1,7 +1,7 @@
 # dirtrally2-event-data
  
  ### Data Visualizer
- [Graph the data!](https://chrisraff.com/dirtrally2)
+ [Graph the data!](https://www.chrisraff.com/dirtrally2)
  
  
  ### How to Use This Data

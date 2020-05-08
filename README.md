@@ -5,7 +5,7 @@
  
  
  ### How to Use This Data
-Each Community Event is a JSON file in the `daily` folder. The "entries" field tells you how well each player did.
+Each Community Event is a JSON file in the `daily/2020` folder. The "entries" field tells you how well each player did.
 
 This repo is hosted on Github Sites. This means you can perform a `GET` request to get a specific stage without ever pulling the repository (which will eventually be very large). Each directory has an `info.json` file to tell you what files and directories are inside it. You can `GET` the `info.json` for the `daily` category at the URL `https://www.chrisraff.com/dirtrally2-event-data/daily/2020/info.json`. This file contains the list of available stages and all their associated metadata in the `files` array. Once you find the stage you want based on the metadata, for example `51633_51965_0.json`, you can `GET` it from the URL `https://www.chrisraff.com/dirtrally2-event-data/daily/2020/51633_51965_0.json`.
 
